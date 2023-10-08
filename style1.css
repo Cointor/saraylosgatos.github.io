@@ -1,0 +1,14 @@
+body {
+    background-image: url('fondo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.nav-wrapper {
+    background-color: #7089D9;
+    padding-right: 1%;
+    padding-left: 1%;
+}
